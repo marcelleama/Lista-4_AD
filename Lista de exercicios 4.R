@@ -2,7 +2,7 @@
 
 #Exercico numero 1:
 
-O link do repositório do GitHub:
+O link do repositório do GitHub: https://github.com/marcelleama/Lista-4_AD
 
 #Exercicio numero 2:
 
