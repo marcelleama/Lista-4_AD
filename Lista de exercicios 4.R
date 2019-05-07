@@ -3,7 +3,7 @@
 #Exercico numero 1:
 
 #O link do repositório do GitHub:
-# https://github.com/marcelleama/Lista-4_AD
+https://github.com/marcelleama/Lista-4_AD
 
 #Exercicio numero 2:
 
